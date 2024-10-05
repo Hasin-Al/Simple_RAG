@@ -19,7 +19,7 @@ This notebook demonstrates the implementation of a simple Retrieval-Augmented Ge
 
 ## Functionality
 
-- The system accepts user queries and retrieves the top relevant documents based on similarity scores. If no relevant documents are found, it provides a thoughtful response indicating the absence of results.
+- The system accepts user queries and retrieves the top relevant documents based on similarity scores. If no relevant documents are found, it provides a simple response indicating the absence of results.
 
 ## Usage
 
